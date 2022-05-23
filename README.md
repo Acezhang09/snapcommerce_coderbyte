@@ -1,8 +1,8 @@
 # snapcommerce_coderbyte
 
-Aaron Zhang\n
-University of Waterloo\n
-Student ID: 20926447\n
-Email: aaron.zhang@uwaterloo.ca\n
-
+Aaron Zhang<br />
+University of Waterloo<br />
+Student ID: 20926447<br />
+Email: aaron.zhang@uwaterloo.ca<br />
+<br />
 Coderbyte assessment as part of the Snapcommerce application process
