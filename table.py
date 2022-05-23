@@ -3,7 +3,7 @@ import pandas as pd
 if __name__ == "__main__":
     data = 'Airline Code;DelayTimes;FlightCodes;To_From\nAir Canada (!);[21, 40];20015.0;WAterLoo_NEWYork\n<Air France> (12);[];;Montreal_TORONTO\n(Porter Airways. );[60, 22, 87];20035.0;CALgary_Ottawa\n12. Air France;[78, 66];;Ottawa_VANcouvER\n""".\\.Lufthansa.\\.""";[12, 33];20055.0;london_MONTreal\n'
     
-    # Removes the last \n terminator from the data to avoid creating an unused row
+    # Removes the last \n line terminator from the data to avoid creating an unused row
     data = data[:len(data)-1]
 
     # To seperate TO_FROM into two different columns when table is constructed
